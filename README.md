@@ -1,1 +1,1 @@
-Hey! I love infra, tools, and code.
+I ❤️ infra, tools, security, and code.
