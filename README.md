@@ -1,1 +1,1 @@
-❤️  infra, tools, security, code, and ☕.
+❤️  infra, tools, security, code, self-hosting and ☕.
